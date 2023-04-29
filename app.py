@@ -21,12 +21,12 @@ st.image(image, caption=' ')
 
 
 
-consumer_key = "cfE5qGxO2BGUMQII2uU4Lzb03"
-consumer_sec = "g3ptUM034liCey2YW4YIxMGPKOOTU8Er9d1Zrvvq3d0KeC1EcI"
+consumer_key = "6OFQjHul3OJ2DSXJDLeabTOQm"
+consumer_sec = "9QsnNqG6bwQwz8nKRmozDKr25JiIhvK2TIQioQDY29egUjTkSq"
 
 # from proxy server we need to connect
-access_token = "1469220937534828544-JK9knliLQIO7w5si3gJqoxGC0nwCFc"
-access_token_sec = "i1jktGuZ2Zif69FQHalwmkr2L4wMo42RhHFSmkPb5af7M"
+access_token = "1464830432613183492-KGUS6A0xA11wFLMLcPRcNGVHd6uui6"
+access_token_sec = " 5UALSwBalzvQAnVvOF6DH6kpJskRDEBeW7Dpoem4sEkfM"
 dir(tweepy)
 
 auth=tweepy.OAuthHandler(consumer_key,consumer_sec)
