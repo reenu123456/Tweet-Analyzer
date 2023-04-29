@@ -29,7 +29,7 @@ access_token = "1464830432613183492-KGUS6A0xA11wFLMLcPRcNGVHd6uui6"
 access_token_sec = " 5UALSwBalzvQAnVvOF6DH6kpJskRDEBeW7Dpoem4sEkfM"
 dir(tweepy)
 
-auth=tweepy.OAuthHandler(consumer_key,consumer_sec)
+auth = tweepy.OAuthHandler(consumer_key, consumer_sec)
 
 auth.set_access_token(access_token,access_token_sec)
 
